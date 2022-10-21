@@ -156,6 +156,10 @@ h1.qsoueu{
         height: 20%;
         padding-left: 15px;
         border-radius: 0px ;
+        margin-left: 50%;
+    }
+    h3.copy{
+        margin-left: 50%   
     }
     
     img.projeto{
